@@ -1,5 +1,0 @@
-arquivo de exemplo
-
-modificado :)
-
-Feita alterações no arquivo do git na pratica. 
